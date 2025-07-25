@@ -1,0 +1,20 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "XAI Dashboard starten",
+			"type": "shell",
+			"command": "uv",
+			"args": [
+				"run",
+				"python",
+				"main.py",
+				"--mode",
+				"gradio"
+			],
+			"group": "test",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

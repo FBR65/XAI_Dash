@@ -1,0 +1,19 @@
+[project]
+name = "xai-dash"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.116.1",
+    "gradio==5.34.0",
+    "lime>=0.2.0.1",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "shap>=0.48.0",
+    "uvicorn>=0.35.0",
+]

@@ -1,0 +1,72 @@
+{
+  "test_model": {
+    "file_path": "uploaded_models\\test_model.joblib",
+    "model_type": "classification",
+    "description": "Test Upload Modell",
+    "feature_names": [
+      "feature_1",
+      "feature_2",
+      "feature_3",
+      "feature_4"
+    ],
+    "target_names": [
+      "klasse_0",
+      "klasse_1"
+    ],
+    "upload_timestamp": "2025-07-25T19:14:53.142097"
+  },
+  "kunde": {
+    "file_path": "uploaded_models\\kunde.joblib",
+    "model_type": "classification",
+    "description": "",
+    "feature_names": [
+      "Feature_1",
+      "Feature_2",
+      "Feature_3",
+      "Feature_4",
+      "Feature_5",
+      "Feature_6"
+    ],
+    "target_names": [
+      "0",
+      "1",
+      "2"
+    ],
+    "upload_timestamp": "2025-07-25T19:15:35.364281"
+  },
+  "dropdown_test": {
+    "file_path": "uploaded_models\\dropdown_test.joblib",
+    "model_type": "classification",
+    "description": "Test für Dropdown Update",
+    "feature_names": [
+      "feature_1",
+      "feature_2",
+      "feature_3",
+      "feature_4"
+    ],
+    "target_names": [
+      "klasse_0",
+      "klasse_1"
+    ],
+    "upload_timestamp": "2025-07-25T19:24:46.416755"
+  },
+  "Test": {
+    "file_path": "uploaded_models\\Test.joblib",
+    "model_type": "classification",
+    "description": "",
+    "feature_names": [
+      "Feature_1",
+      "Feature_2",
+      "Feature_3",
+      "Feature_4",
+      "Feature_5",
+      "Feature_6"
+    ],
+    "target_names": [
+      "0",
+      "1",
+      "2"
+    ],
+    "upload_timestamp": "2025-07-25T19:35:19.287751"
+  }
+}
